@@ -47,9 +47,9 @@ function saveData(status, wish) {
 
 const friends = [
  ['Nguyễn Khắc Nam Thi','The bestie of my life','friend-5.png'],
- ['Lê Minh Thư','My Day – one bestie','friend-minh-thu.png'],
+ ['Lê Minh Thư','My Day–one bestie','friend-minh-thu.png'],
  ['Lê Hoàng Yến Nhi','The lifelong bestie','friend-6.png'],
- ['Nguyễn Minh Hằng','My baby kuu','friend-7.png'],
+ ['Nguyễn Ngọc Minh Hằng','My baby kuu','friend-7.png'],
  ['Trần Ngọc Anh Thư','The lốp of my life','friend-8.png'],
  ['Châu Thụy Cát Tường','Best mama of ages','friend-9.jpeg']
 ];
